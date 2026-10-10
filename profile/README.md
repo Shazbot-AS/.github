@@ -12,4 +12,6 @@ use or copy any code or materials hosted in it. Any such permission must
 be given explicitly and in writing by Shazbot! AS, and must state
 precisely which code, purpose, and scope it covers. Anything not
 expressly named is excluded, and permission may not be inferred from
-access, silence, or prior use.
+access, silence, or prior use. If Shazbot! AS has developed code, designs or materials 
+for any project you own, the rights always belong to Shazbot! AS 
+until an explicit IP agreement is signed.
